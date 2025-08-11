@@ -1,4 +1,4 @@
-Breve descripción de tu proyecto "Mi amigo secreto".
+Breve descripción del proyecto "Amigo Secreto".
 Es una aplicación web desarrollada para facilitar la resolución aleatorea del tradicional juego de intercambio de regalos. 
 La aplicación permite a los usuarios crear una lista de participantes, seleccionar un "amigo secreto" de forma aleatoria, y ver el resultado del sorteo.
 
